@@ -1,0 +1,12 @@
+div {
+  background-color: azure;
+  border: 1px solid aquamarine;
+  padding: 30px;
+}
+
+h1 {
+  color: aquamarine;
+  border: 1px solid aquamarine;
+  font-size: 30px;
+  font-weight: bold;
+}
